@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air VaporMax 2023 Flyknit",
+    "price": 250,
+    "imgUrl": "https://images.nike.com/is/image/DotCom/DV1678_400_A_PREM?fmt=jpg&bgc=F5F5F5&iccEmbed=1&wid=800&hei=800"
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Force 1 '07",
+    "price": 399,
+    "imgUrl": "https://images.nike.com/is/image/DotCom/DV0788_600_A_PREM?fmt=jpg&bgc=F5F5F5&iccEmbed=1&wid=800&hei=800"
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Force 1 '07 LV8",
+    "price": 400,
+    "imgUrl": "https://images.nike.com/is/image/DotCom/DZ2522_100_F_PREM?fmt=jpg&bgc=F5F5F5&iccEmbed=1&wid=800&hei=800"
+  },
+  {
+    "id": 4,
+    "name": "Nike Air Force 1 Mid '07 LV8",
+    "price": 530,
+    "imgUrl": "https://images.nike.com/is/image/DotCom/DZ2554_100_E_PREM?fmt=jpg&bgc=F5F5F5&iccEmbed=1&wid=800&hei=800"
+  },
+  {
+    "id": 5,
+    "name": "Nike Air VaporMax 2023 Flyknit",
+    "price": 670,
+    "imgUrl": "https://images.nike.com/is/image/DotCom/DV1678_600_E_PREM?fmt=jpg&bgc=F5F5F5&iccEmbed=1&wid=800&hei=800"
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Force 1 '07 LX",
+    "price": 560,
+    "imgUrl": "https://images.nike.com/is/image/DotCom/DV0791_100_E_PREM?fmt=jpg&bgc=F5F5F5&iccEmbed=1&wid=800&hei=800"
+  }
+]
